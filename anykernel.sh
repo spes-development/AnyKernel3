@@ -1,12 +1,12 @@
 ### AnyKernel3 Ramdisk Mod Script
-## osm0sis @ xda-developers
+## tanvir007 @ xda-developers
 
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=vauxite
-kernel.compiler=AOSP clang
-kernel.made=CHRISL7
+kernel.string=Linux-suNEXT
+kernel.compiler=Zyc clang
+kernel.made=тαиνir
 message.word=
 do.devicecheck=1
 do.modules=0
